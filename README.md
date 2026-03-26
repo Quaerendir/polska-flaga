@@ -1,6 +1,6 @@
 # 🇵🇱 polska-flaga
 
-Nostalgiczna animacja flagi Polski na pełny ekran — hołd dla klasycznych dem z lat 90., które krążyły po polskim internecie jako małe pliki `.exe`.
+Nostalgiczna animacja flagi Polski — hołd dla klasycznych dem z lat 90.
 
 Flaga odbija się od krawędzi ekranu (DVD-logo style), prędkość regulowana klawiaturą.
 
@@ -8,22 +8,6 @@ Flaga odbija się od krawędzi ekranu (DVD-logo style), prędkość regulowana k
 ![pygame](https://img.shields.io/badge/pygame-2.1%2B-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
----
-
-## Zrzut ekranu
-
-```
-┌─────────────────────────────────────────────────────┐
-│  prędkość: 4.0x                          [ciemne tło]│
-│                                                      │
-│              ┌──────────────────────┐               │
-│              │██████ BIAŁY ████████│               │
-│              │█████ CZERWONY ██████│               │
-│              └──────────────────────┘               │
-└─────────────────────────────────────────────────────┘
-```
-
----
 
 ## Wymagania
 
